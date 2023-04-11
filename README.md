@@ -3,7 +3,7 @@
     <h2 align="center">Ресурс пак с кастомными текстурами, сделанный специально для DCSMP</h2>
 </p>
 
-[![nn-of/stash](https://user-images.githubusercontent.com/58265507/223539731-b6462caa-6d57-4c07-b242-67cebb6f1af5.png)](http://localhost:3000/stash/testProject)
+[![nn-of/stash](https://user-images.githubusercontent.com/58265507/223539731-b6462caa-6d57-4c07-b242-67cebb6f1af5.png)](https://nn-of.ru/stash/debbikcraft_rp)
 
 ### Важные моменты
 - Последняя версия ресурспака разработана только для версии 1.19.3
