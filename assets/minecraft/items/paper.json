@@ -11,9 +11,16 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "deltacraft:cover_bbnos"
+          "model": "deltacraft:cover/bbnos"
         },
         "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:cover/chroma"
+        },
+        "threshold": 2
       }
     ]
   }
