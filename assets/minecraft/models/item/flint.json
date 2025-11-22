@@ -1,0 +1,105 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/flint"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "deltacraft:chess/white_pawn"
+    },
+    {
+      "predicate": { "custom_model_data": 12 },
+      "model": "deltacraft:chess/white_knight"
+    },
+    {
+      "predicate": { "custom_model_data": 13 },
+      "model": "deltacraft:chess/white_bishop"
+    },
+    {
+      "predicate": { "custom_model_data": 14 },
+      "model": "deltacraft:chess/white_rook"
+    },
+    {
+      "predicate": { "custom_model_data": 15 },
+      "model": "deltacraft:chess/white_king"
+    },
+    {
+      "predicate": { "custom_model_data": 16 },
+      "model": "deltacraft:chess/white_queen"
+    },
+    {
+      "predicate": { "custom_model_data": 21 },
+      "model": "deltacraft:chess/black_pawn"
+    },
+    {
+      "predicate": { "custom_model_data": 22 },
+      "model": "deltacraft:chess/black_knight"
+    },
+    {
+      "predicate": { "custom_model_data": 23 },
+      "model": "deltacraft:chess/black_bishop"
+    },
+    {
+      "predicate": { "custom_model_data": 24 },
+      "model": "deltacraft:chess/black_rook"
+    },
+    {
+      "predicate": { "custom_model_data": 25 },
+      "model": "deltacraft:chess/black_king"
+    },
+    {
+      "predicate": { "custom_model_data": 26 },
+      "model": "deltacraft:chess/black_queen"
+    },
+    {
+      "predicate": { "custom_model_data": 31 },
+      "model": "deltacraft:chess/flat_set/white_pawn"
+    },
+    {
+      "predicate": { "custom_model_data": 32 },
+      "model": "deltacraft:chess/flat_set/white_knight"
+    },
+    {
+      "predicate": { "custom_model_data": 33 },
+      "model": "deltacraft:chess/flat_set/white_bishop"
+    },
+    {
+      "predicate": { "custom_model_data": 34 },
+      "model": "deltacraft:chess/flat_set/white_rook"
+    },
+    {
+      "predicate": { "custom_model_data": 35 },
+      "model": "deltacraft:chess/flat_set/white_king"
+    },
+    {
+      "predicate": { "custom_model_data": 36 },
+      "model": "deltacraft:chess/flat_set/white_queen"
+    },
+    {
+      "predicate": { "custom_model_data": 41 },
+      "model": "deltacraft:chess/flat_set/black_pawn"
+    },
+    {
+      "predicate": { "custom_model_data": 42 },
+      "model": "deltacraft:chess/flat_set/black_knight"
+    },
+    {
+      "predicate": { "custom_model_data": 43 },
+      "model": "deltacraft:chess/flat_set/black_bishop"
+    },
+    {
+      "predicate": { "custom_model_data": 44 },
+      "model": "deltacraft:chess/flat_set/black_rook"
+    },
+    {
+      "predicate": { "custom_model_data": 45 },
+      "model": "deltacraft:chess/flat_set/black_king"
+    },
+    {
+      "predicate": { "custom_model_data": 46 },
+      "model": "deltacraft:chess/flat_set/black_queen"
+    }
+
+  ]
+}

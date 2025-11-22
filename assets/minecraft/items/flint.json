@@ -1,0 +1,181 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/flint"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/white_pawn"
+        },
+        "threshold": 11
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/white_knight"
+        },
+        "threshold": 12
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/white_bishop"
+        },
+        "threshold": 13
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/white_rook"
+        },
+        "threshold": 14
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/white_king"
+        },
+        "threshold": 15
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/white_queen"
+        },
+        "threshold": 16
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/black_pawn"
+        },
+        "threshold": 21
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/black_knight"
+        },
+        "threshold": 22
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/black_bishop"
+        },
+        "threshold": 23
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/black_rook"
+        },
+        "threshold": 24
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/black_king"
+        },
+        "threshold": 25
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/black_queen"
+        },
+        "threshold": 26
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/flat_set/white_pawn"
+        },
+        "threshold": 31
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/flat_set/white_knight"
+        },
+        "threshold": 32
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/flat_set/white_bishop"
+        },
+        "threshold": 33
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/flat_set/white_rook"
+        },
+        "threshold": 34
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/flat_set/white_king"
+        },
+        "threshold": 35
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/flat_set/white_queen"
+        },
+        "threshold": 36
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/flat_set/black_pawn"
+        },
+        "threshold": 41
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/flat_set/black_knight"
+        },
+        "threshold": 42
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/flat_set/black_bishop"
+        },
+        "threshold": 43
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/flat_set/black_rook"
+        },
+        "threshold": 44
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/flat_set/black_king"
+        },
+        "threshold": 45
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:chess/flat_set/black_queen"
+        },
+        "threshold": 46
+      }
+    ]
+  }
+}

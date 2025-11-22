@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "dc:custom/chess/flat_set/white_knight"
+	}
+}

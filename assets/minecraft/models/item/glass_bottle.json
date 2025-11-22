@@ -1,0 +1,105 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glass_bottle"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "deltacraft:effects/strength"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "deltacraft:effects/fire_resistance"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "deltacraft:effects/regeneration"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "deltacraft:effects/water_breathing"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "deltacraft:effects/slow_falling"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "deltacraft:effects/turtle_master"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "deltacraft:effects/infestation"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "deltacraft:effects/oozing"
+    },
+    {
+      "predicate": { "custom_model_data": 9 },
+      "model": "deltacraft:effects/weaving"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "deltacraft:effects/wind_charged"
+    },
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "deltacraft:effects/jump_boost"
+    },
+    {
+      "predicate": { "custom_model_data": 12 },
+      "model": "deltacraft:effects/speed"
+    },
+    {
+      "predicate": { "custom_model_data": 13 },
+      "model": "deltacraft:effects/slowness"
+    },
+    {
+      "predicate": { "custom_model_data": 14 },
+      "model": "deltacraft:effects/instant_health"
+    },
+    {
+      "predicate": { "custom_model_data": 15 },
+      "model": "deltacraft:effects/poison"
+    },
+    {
+      "predicate": { "custom_model_data": 16 },
+      "model": "deltacraft:effects/instant_damage"
+    },
+    {
+      "predicate": { "custom_model_data": 17 },
+      "model": "deltacraft:effects/night_vision"
+    },
+    {
+      "predicate": { "custom_model_data": 18 },
+      "model": "deltacraft:effects/invisibility"
+    },
+    {
+      "predicate": { "custom_model_data": 19 },
+      "model": "deltacraft:effects/weakness"
+    },
+    {
+      "predicate": { "custom_model_data": 20 },
+      "model": "deltacraft:effects/bad_omen"
+    },
+    {
+      "predicate": { "custom_model_data": 21 },
+      "model": "deltacraft:effects/level_up"
+    },
+    {
+      "predicate": { "custom_model_data": 22 },
+      "model": "deltacraft:effects/time_up"
+    },
+    {
+      "predicate": { "custom_model_data": 23 },
+      "model": "deltacraft:effects/exploding"
+    },
+    {
+      "predicate": { "custom_model_data": 24 },
+      "model": "deltacraft:effects/lingering"
+    }
+
+  ]
+}
