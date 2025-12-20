@@ -91,6 +91,13 @@
           "model": "deltacraft:potion_shop_sign_text"
         },
         "threshold": 12
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:goracio_statue"
+        },
+        "threshold": 13
       }
     ]
   }
