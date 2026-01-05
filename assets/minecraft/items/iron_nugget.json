@@ -98,6 +98,13 @@
           "model": "deltacraft:goracio_statue"
         },
         "threshold": 13
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "deltacraft:storage_sign"
+        },
+        "threshold": 14
       }
     ]
   }
